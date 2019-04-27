@@ -1,16 +1,16 @@
 # Guides and API References
 
 - ## [API Module](/API%20Module)
-    Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+    Cras justo odio, dapibus ac facilisis in, egestas eget quam.
 
 - ## [BIA Module](/BIA%20Module)
-    Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+    Facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.
 
 - ## [Discovery Module](/Discovery%20Module)
-    Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+    Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac.
 
 - ## [ETL Module](/ETL%20Module)
-    Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. 
+    Donec sed odio dui. Cras justo odio, dapibus ac facilisis in
 
     Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
