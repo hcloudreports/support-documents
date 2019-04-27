@@ -17,5 +17,5 @@
 
     Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
-- ## [Marketplace Module](/Marketplace%20Module)
+- ## [Marketplace](/Marketplace%20Module)
     Fusto odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.
