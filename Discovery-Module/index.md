@@ -4,7 +4,7 @@
 - ## [Developer Guide](/Discovery-Module/Developer-Guide)
     Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum.
 
-- ## [API reference](/Discovery-Module/API-reference)
+- ## [API Reference](/Discovery-Module/API-Reference)
     Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum. 
 
 - ## [Console User Guide](/Discovery-Module/Console-User-Guide)
