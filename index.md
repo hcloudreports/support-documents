@@ -1,4 +1,8 @@
-# Guides and API References
+#HCR Documentation
+ Find user guides, developer guides, API references, tutorials, and more.
+
+## Guides and API References
+
 
 - ## [Discovery Module](/Discovery%20Module)
     Vestibulum id ligula porta felis euismod semodio, dapibus ac facilisis in, egestas egetper. Fusce dapibus, tellus ac.
