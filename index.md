@@ -1,5 +1,5 @@
-#HCR Documentation
- Find user guides, developer guides, API references, tutorials, and more.
+# HCR Documentation
+  Find user guides, developer guides, API references, tutorials, and more.
 
 ## Guides and API References
 
